@@ -14,6 +14,6 @@ Sadržaj e-mail poruke i predmet se također može promijeniti.
 
 # Screencast i dokumentacija
 
-Screencast: https://drive.google.com/file/d/18_uAl-BHJMbiqaIrVBuG2Q-94X4RqpGz/view?usp=sharing
+Screencast: https://drive.google.com/file/d/18_uAl-BHJMbiqaIrVBuG2Q-94X4RqpGz/view?usp=sharing  
 Dokumentacija: Glavni dio programa tj. datoteka main.py sadrži komentare na većinu linija koda. Google.py dio je programa koji služi samo za autorizaciju te sam njega samo preuzeo i ne sadrži neke zanimljive linije koda (koje se tiču same funkcionalnosti) programa stoga se nisam trudio objasniti ih. Google-ova dokumentacija za slanje e-maila je neočekivano zastarjela te sam stoga morao koristiti alternativan izvor da bi kod radio. Svejedno, sadrži dosta toga što objašnjava funkcionalnost samog sučelja pa ako nekog zanima evo linka:
 https://developers.google.com/gmail/api
